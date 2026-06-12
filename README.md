@@ -47,7 +47,7 @@ test.py : the main testing script ''.
 Run ```bash scripts/train/wsi_frmil.sh ```
 
 ## Test 
-Run ```bash scripts/test/wsi_frmil.sh ```
+Run ```bash scripts/test/wsi_test.sh ```
 
 ## References
 Our implementation builds upon several existing publicly available code.
@@ -57,3 +57,4 @@ Our implementation builds upon several existing publicly available code.
 * [DSMIL (CVPR)](https://github.com/binli123/dsmil-wsi) 
 * [TransMIL (NeurIPS)](https://github.com/szc19990412/TransMIL)
 * [RENET (ICCV)](https://github.com/dahyun-kang/renet/tree/main/datasets)
+* [FRMIL](https://github.com/PhilipChicco/FRMIL)
